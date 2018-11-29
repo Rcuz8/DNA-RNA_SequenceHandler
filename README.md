@@ -4,7 +4,6 @@
 -----------------
 
 Author: RYAN COCUZZO
-Partner: N/A
 
 ------
  TASK
@@ -14,13 +13,6 @@ The task was to create a DNA and RNA sequence storage and manipulation mechanism
 This was done through the usage of multiple different types of lists for the data
 storage and heavily uses ADTs to get the desired result and functionality to 
 properly manipulate the lists and sequences.
-
-
--------
- CLASS
--------
-
-This project was made for CSC172 with Prof. Zhupa in the 2pm Tues. Thurs. lab.
 
 -------
  FILES
